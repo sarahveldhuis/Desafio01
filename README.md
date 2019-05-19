@@ -1,5 +1,5 @@
 # Attributor
-A Startup Atribuor é uma empresa especializada em recuperaçãp de impostos de empresas.
+A Startup Attributor é uma empresa especializada em recuperaçãp de impostos de empresas.
 
 Objetivo: 
 O objetivo é permitir uma automatização do processo de recuperação de impostos através da criação de um software.
